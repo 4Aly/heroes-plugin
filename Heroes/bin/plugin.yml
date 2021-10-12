@@ -1,0 +1,11 @@
+main: me.aly.heroes.Main
+name: Heroes
+version: 1.0.0
+auther: Aly
+api-version: 1.13
+
+commands:
+  herogui:
+    aliases: hgui
+  superjump:
+    aliases: launch
